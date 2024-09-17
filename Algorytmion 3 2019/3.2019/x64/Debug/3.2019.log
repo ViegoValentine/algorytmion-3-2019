@@ -1,0 +1,3 @@
+﻿  Źródło.cpp
+C:\Users\stach\OneDrive\Pulpit\cpp\Algorytmion 3 2019\3.2019\Źródło.cpp(79,30): warning C4244: "argument": konwersja z "double" do "std::streamsize", możliwa utrata danych
+  3.2019.vcxproj -> C:\Users\stach\OneDrive\Pulpit\cpp\Algorytmion 3 2019\x64\Debug\3.2019.exe
